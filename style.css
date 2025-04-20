@@ -8,11 +8,11 @@ body {
 }
 
 header {
-  background-color: #000000;
+  background-color: #1F16AD;
   color: white;
   padding: 2rem;
   text-align: center;
-}
+}z
 
 header nav a {
   color: white;
@@ -28,7 +28,7 @@ section {
 }
 
 h1, h2 {
-  color: #000000;
+  color: #1F16AD;
 }
 
 footer {
