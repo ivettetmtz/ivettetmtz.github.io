@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #37A2CC;
+  background-color: #94C973;
   color: white;
   padding: 2rem;
   text-align: center;
@@ -27,12 +27,16 @@ section {
   margin: auto;
 }
 
-h1, h2 {
-  color: #1F16AD;
+h1 {
+  color: #f8f8f8;
+}
+
+h2 {
+  color: #2F5233;
 }
 
 footer {
-  background-color: #37A2CC;
+  background-color: #94C973;
   color: white;
   text-align: center;
   padding: 1rem;
