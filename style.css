@@ -21,10 +21,6 @@ header nav a {
   font-weight: bold;
 }
 
-section {
-  margin-bottom: 10px;
-}
-
 p {
   margin-bottom: 12px;
   line-height: 1.6;
@@ -39,20 +35,26 @@ ul li {
   margin-bottom: 8px;
 }
 
+#artifacts ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+}
+
 #artifacts li {
   margin-bottom: 30px;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 8px;
   background-color: #f9f9f9;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
 
 section {
   padding: 2rem;
   max-width: 900px;
-  margin: auto;
+  margin: 0 auto 2rem auto; /* adds bottom margin to space out each section */
 }
 
 h1 {
