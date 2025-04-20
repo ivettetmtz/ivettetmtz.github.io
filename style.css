@@ -22,7 +22,7 @@ header nav a {
 }
 
 section {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 p {
@@ -47,7 +47,7 @@ section {
 }
 
 h1 {
-  color: #f8f8f8;
+  color: #2F5233;
 }
 
 h2 {
@@ -56,7 +56,7 @@ h2 {
 
 footer {
   background-color: #94C973;
-  color: white;
+  color: #2F5233;
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
