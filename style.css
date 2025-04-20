@@ -50,12 +50,12 @@ ul li {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
-
 section {
-  padding: 2rem;
+  padding: 1.2rem 2rem; /* less vertical padding */
   max-width: 900px;
-  margin: 0 auto 2rem auto; /* adds bottom margin to space out each section */
+  margin: 0 auto 1.5rem auto; /* smaller spacing between sections */
 }
+
 
 h1 {
   color: #2F5233;
